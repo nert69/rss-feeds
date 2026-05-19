@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4389/this-weeks-events-19</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4389/this-weeks-events-19</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Alhambra: Palace Building Competition</title>
       <link>https://origins.habbo.com/community/article/4382/alhambra-palace-building-competition</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4358/last-chance-country-furni-leaving-the-catalogue</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <description>Last Chance: Country Furni Leaving The Catalogue</description>
-    </item>
-    <item>
-      <title>Rare Sale: Roman Pillar!</title>
-      <link>https://origins.habbo.com/community/article/4353/rare-sale-roman-pillar</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4353/rare-sale-roman-pillar</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Roman Pillar!</description>
     </item>
   </channel>
 </rss>
