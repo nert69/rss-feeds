@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: Careful What You Wish For</title>
+      <link>https://origins.habbo.com/community/article/4403/funky-friday-duck-genie</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4403/funky-friday-duck-genie</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: Careful What You Wish For</description>
+    </item>
     <item>
       <title>A Note On Event Creator Prizes</title>
       <link>https://origins.habbo.com/community/article/4395/a-note-on-event-creator-prizes</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4371/rare-sale-jinn-lamp</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <description>Rare Sale: Jinn Lamp!</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4369/this-weeks-events-18</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4369/this-weeks-events-18</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
