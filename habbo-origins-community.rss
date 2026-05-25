@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4411/this-weeks-events-20</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4411/this-weeks-events-20</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Instant Games, Profile Updates &amp; More</title>
       <link>https://origins.habbo.com/community/article/4407/4407</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4380/4380</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>The Alhambra Tea Houses Are Open</description>
-    </item>
-    <item>
-      <title>Creative Has Arrived In Origins</title>
-      <link>https://origins.habbo.com/community/article/4374/4374</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4374/4374</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>Creative Has Arrived In Origins</description>
     </item>
   </channel>
 </rss>
