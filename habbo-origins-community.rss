@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sprinklers Have Arrived</title>
+      <link>https://origins.habbo.com/community/article/4413/4413</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4413/4413</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Sprinklers Have Arrived</description>
+    </item>
     <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4411/this-weeks-events-20</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4383/room-competitions-are-changing</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Room Competitions Are Changing</description>
-    </item>
-    <item>
-      <title>The Alhambra Tea Houses Are Open</title>
-      <link>https://origins.habbo.com/community/article/4380/4380</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4380/4380</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>The Alhambra Tea Houses Are Open</description>
     </item>
   </channel>
 </rss>
