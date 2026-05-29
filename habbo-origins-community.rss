@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: Let's Get Educated</title>
+      <link>https://origins.habbo.com/community/article/4468/funky-friday-lets-get-educated</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4468/funky-friday-lets-get-educated</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: Let's Get Educated</description>
+    </item>
     <item>
       <title>Infobus Poll Results: Profiles!</title>
       <link>https://origins.habbo.com/community/article/4466/4466</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4395/a-note-on-event-creator-prizes</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>A Note On Event Creator Prizes</description>
-    </item>
-    <item>
-      <title>Head To The Polls - Profile Voting Time.</title>
-      <link>https://origins.habbo.com/community/article/4398/4398</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4398/4398</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Head To The Polls - Profile Voting Time.</description>
     </item>
   </channel>
 </rss>
