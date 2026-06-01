@@ -5,7 +5,14 @@
     <link>https://origins.habbo.com/community/category/all/1</link>
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4471/this-weeks-events-21</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4471/this-weeks-events-21</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Funky Friday: Let's Get Educated</title>
       <link>https://origins.habbo.com/community/article/4468/funky-friday-lets-get-educated</link>
@@ -68,13 +75,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4403/funky-friday-duck-genie</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <description>Funky Friday: Careful What You Wish For</description>
-    </item>
-    <item>
-      <title>A Note On Event Creator Prizes</title>
-      <link>https://origins.habbo.com/community/article/4395/a-note-on-event-creator-prizes</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4395/a-note-on-event-creator-prizes</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>A Note On Event Creator Prizes</description>
     </item>
   </channel>
 </rss>
