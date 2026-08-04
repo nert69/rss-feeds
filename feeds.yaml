@@ -4,3 +4,8 @@ feeds:
     script: habbo_origins.py
     output: habbo-origins-community.rss
     site_url: https://origins.habbo.com/community/category/all/1
+  sulake_dominic:
+    enabled: true
+    script: sulake_dominic.py
+    output: sulake-dominic.rss
+    site_url: https://x.com/SulakeDominic
