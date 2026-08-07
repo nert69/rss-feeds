@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Around The Hotel: Wings &amp; Habburgers</title>
+      <link>https://origins.habbo.com/community/article/4769/4769</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4769/4769</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Around The Hotel: Wings &amp; Habburgers</description>
+    </item>
     <item>
       <title>Glukko Brings The Summer Fun</title>
       <link>https://origins.habbo.com/community/article/4766/4766</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4724/4724</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Fishing Derbies Have Been Reimagined</description>
-    </item>
-    <item>
-      <title>Habcup Update</title>
-      <link>https://origins.habbo.com/community/article/4721/4721</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4721/4721</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Habcup Update</description>
     </item>
   </channel>
 </rss>
