@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4773/this-weeks-events-30</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4773/this-weeks-events-30</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Around The Hotel: Wings &amp; Habburgers</title>
       <link>https://origins.habbo.com/community/article/4769/4769</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4728/rare-sale-stadium-smoke-machine</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <description>Rare Sale: Stadium Smoke Machine!</description>
-    </item>
-    <item>
-      <title>Fishing Derbies Have Been Reimagined</title>
-      <link>https://origins.habbo.com/community/article/4724/4724</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4724/4724</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Fishing Derbies Have Been Reimagined</description>
     </item>
   </channel>
 </rss>
