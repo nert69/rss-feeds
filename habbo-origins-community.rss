@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Community Day: Save The Date</title>
+      <link>https://origins.habbo.com/community/article/4775/community-day-save-the-date</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4775/community-day-save-the-date</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Community Day: Save The Date</description>
+    </item>
     <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4773/this-weeks-events-30</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4731/origins-football-cup-teams-rules</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <description>Origins Football Cup - Teams And Rules</description>
-    </item>
-    <item>
-      <title>Rare Sale: Stadium Smoke Machine!</title>
-      <link>https://origins.habbo.com/community/article/4728/rare-sale-stadium-smoke-machine</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4728/rare-sale-stadium-smoke-machine</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Stadium Smoke Machine!</description>
     </item>
   </channel>
 </rss>
