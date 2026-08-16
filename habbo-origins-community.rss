@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Habcup: Build The Final Results</title>
+      <link>https://origins.habbo.com/community/article/4783/4783</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4783/4783</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Habcup: Build The Final Results</description>
+    </item>
     <item>
       <title>Kingdoms Of Sand: Room Competition</title>
       <link>https://origins.habbo.com/community/article/4779/4779</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4754/origins-football-cup-winners</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <description>Origins Football Cup - Winners</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4752/this-weeks-events-28</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4752/this-weeks-events-28</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
