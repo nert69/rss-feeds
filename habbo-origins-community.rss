@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Event Creator Prizes: All Caught Up!</title>
+      <link>https://origins.habbo.com/community/article/4830/event-creator-prizes-all-caught-up</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4830/event-creator-prizes-all-caught-up</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Event Creator Prizes: All Caught Up!</description>
+    </item>
+    <item>
       <title>Rare Sale: Sand Dragon!</title>
       <link>https://origins.habbo.com/community/article/4827/rare-sale-sand-dragon</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4827/rare-sale-sand-dragon</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4764/nocos-trading-trial</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description>Noco's Trading Trial</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4762/this-weeks-events-29</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4762/this-weeks-events-29</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
