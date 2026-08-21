@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>A Quick Update From The Team</title>
+      <link>https://origins.habbo.com/community/article/4848/a-quick-update-from-the-team</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4848/a-quick-update-from-the-team</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>A Quick Update From The Team</description>
+    </item>
     <item>
       <title>📍 Community Day: Schedule</title>
       <link>https://origins.habbo.com/community/article/4844/community-day-schedule</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4773/this-weeks-events-30</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Around The Hotel: Wings &amp; Habburgers</title>
-      <link>https://origins.habbo.com/community/article/4769/4769</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4769/4769</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Around The Hotel: Wings &amp; Habburgers</description>
     </item>
   </channel>
 </rss>
