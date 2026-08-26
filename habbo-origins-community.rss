@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>📍 Spider’s 100th Ec Event - The Lost Relic</title>
+      <link>https://origins.habbo.com/community/article/4856/spiders-100th-ec-event-the-lost-relic</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4856/spiders-100th-ec-event-the-lost-relic</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>📍 Spider’s 100th Ec Event - The Lost Relic</description>
+    </item>
     <item>
       <title>Rare Sale: Yellow Powered Fan!</title>
       <link>https://origins.habbo.com/community/article/4853/rare-sale-yellow-powered-fan</link>
@@ -29,11 +36,11 @@
       <description>A Quick Update From The Team</description>
     </item>
     <item>
-      <title>📍 Community Day: Schedule</title>
+      <title>Community Day: Schedule</title>
       <link>https://origins.habbo.com/community/article/4844/community-day-schedule</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4844/community-day-schedule</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>📍 Community Day: Schedule</description>
+      <description>Community Day: Schedule</description>
     </item>
     <item>
       <title>A Quick Note On The Sand Dragon's Flame</title>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4783/4783</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description>Habcup: Build The Final Results</description>
-    </item>
-    <item>
-      <title>Kingdoms Of Sand: Room Competition</title>
-      <link>https://origins.habbo.com/community/article/4779/4779</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4779/4779</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Kingdoms Of Sand: Room Competition</description>
     </item>
   </channel>
 </rss>
