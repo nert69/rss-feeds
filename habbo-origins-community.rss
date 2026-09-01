@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rare Sale: Red Marquee!</title>
+      <link>https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Rare Sale: Red Marquee!</description>
+    </item>
     <item>
       <title>📍 This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4873/this-weeks-events-33</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4827/rare-sale-sand-dragon</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description>Rare Sale: Sand Dragon!</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4825/this-weeks-events-31</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4825/this-weeks-events-31</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
