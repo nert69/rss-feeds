@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Spider’s 100th Ec Event - The Lost Relic Winners</title>
+      <link>https://origins.habbo.com/community/article/4880/spiders-100th-ec-event-the-lost-relic-winners</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4880/spiders-100th-ec-event-the-lost-relic-winners</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Spider’s 100th Ec Event - The Lost Relic Winners</description>
+    </item>
     <item>
       <title>Rare Sale: Red Marquee!</title>
       <link>https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4830/event-creator-prizes-all-caught-up</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description>Event Creator Prizes: All Caught Up!</description>
-    </item>
-    <item>
-      <title>Rare Sale: Sand Dragon!</title>
-      <link>https://origins.habbo.com/community/article/4827/rare-sale-sand-dragon</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4827/rare-sale-sand-dragon</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Sand Dragon!</description>
     </item>
   </channel>
 </rss>
