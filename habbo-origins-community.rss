@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Noco's Trading Trial: Have Your Say</title>
+      <link>https://origins.habbo.com/community/article/4896/4896</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4896/4896</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Noco's Trading Trial: Have Your Say</description>
+    </item>
+    <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4894/this-weeks-events-34</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4894/this-weeks-events-34</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4844/community-day-schedule</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description>Community Day: Schedule</description>
-    </item>
-    <item>
-      <title>A Quick Note On The Sand Dragon's Flame</title>
-      <link>https://origins.habbo.com/community/article/4838/a-quick-note-on-the-sand-dragons-flame</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4838/a-quick-note-on-the-sand-dragons-flame</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>A Quick Note On The Sand Dragon's Flame</description>
     </item>
   </channel>
 </rss>
