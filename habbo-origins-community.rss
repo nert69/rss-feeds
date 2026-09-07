@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4894/this-weeks-events-34</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4894/this-weeks-events-34</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Spider’s 100th Ec Event - The Lost Relic Winners</title>
       <link>https://origins.habbo.com/community/article/4880/spiders-100th-ec-event-the-lost-relic-winners</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4838/a-quick-note-on-the-sand-dragons-flame</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description>A Quick Note On The Sand Dragon's Flame</description>
-    </item>
-    <item>
-      <title>Event Creator Prizes: All Caught Up!</title>
-      <link>https://origins.habbo.com/community/article/4830/event-creator-prizes-all-caught-up</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4830/event-creator-prizes-all-caught-up</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Event Creator Prizes: All Caught Up!</description>
     </item>
   </channel>
 </rss>
