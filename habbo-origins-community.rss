@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Deepgrove: Ruins Beyond The Hotel</title>
+      <link>https://origins.habbo.com/community/article/4898/deepgrove-ruins-beyond-the-hotel</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4898/deepgrove-ruins-beyond-the-hotel</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Deepgrove: Ruins Beyond The Hotel</description>
+    </item>
     <item>
       <title>Noco's Trading Trial: Have Your Say</title>
       <link>https://origins.habbo.com/community/article/4896/4896</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4848/a-quick-update-from-the-team</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description>A Quick Update From The Team</description>
-    </item>
-    <item>
-      <title>Community Day: Schedule</title>
-      <link>https://origins.habbo.com/community/article/4844/community-day-schedule</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4844/community-day-schedule</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Community Day: Schedule</description>
     </item>
   </channel>
 </rss>
