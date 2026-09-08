@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Rare Sale: Glukko Tablet!</title>
+      <link>https://origins.habbo.com/community/article/4909/rare-sale-glukko-tablet</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4909/rare-sale-glukko-tablet</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Rare Sale: Glukko Tablet!</description>
+    </item>
+    <item>
       <title>Deepgrove: Ruins Beyond The Hotel</title>
       <link>https://origins.habbo.com/community/article/4898/deepgrove-ruins-beyond-the-hotel</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4898/deepgrove-ruins-beyond-the-hotel</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4851/this-weeks-events-32</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>A Quick Update From The Team</title>
-      <link>https://origins.habbo.com/community/article/4848/a-quick-update-from-the-team</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4848/a-quick-update-from-the-team</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>A Quick Update From The Team</description>
     </item>
   </channel>
 </rss>
