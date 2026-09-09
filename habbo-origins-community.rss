@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Deepgrove: More Beyond The Walls</title>
+      <link>https://origins.habbo.com/community/article/4920/deepgrove-beyond-walls</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4920/deepgrove-beyond-walls</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Deepgrove: More Beyond The Walls</description>
+    </item>
+    <item>
+      <title>Noco's Trading Trial: The Poll Is Open!</title>
+      <link>https://origins.habbo.com/community/article/4916/nocos-trading-trial-poll-open</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4916/nocos-trading-trial-poll-open</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Noco's Trading Trial: The Poll Is Open!</description>
+    </item>
     <item>
       <title>Rare Sale: Glukko Tablet!</title>
       <link>https://origins.habbo.com/community/article/4909/rare-sale-glukko-tablet</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4856/spiders-100th-ec-event-the-lost-relic</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <description>Spider’s 100th Ec Event - The Lost Relic</description>
-    </item>
-    <item>
-      <title>Rare Sale: Yellow Powered Fan!</title>
-      <link>https://origins.habbo.com/community/article/4853/rare-sale-yellow-powered-fan</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4853/rare-sale-yellow-powered-fan</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Yellow Powered Fan!</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4851/this-weeks-events-32</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4851/this-weeks-events-32</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
