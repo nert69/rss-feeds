@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Glukko Has Been Asking About Deepgrove</title>
+      <link>https://origins.habbo.com/community/article/4900/glukko-has-been-asking-about-deepgrove</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4900/glukko-has-been-asking-about-deepgrove</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Glukko Has Been Asking About Deepgrove</description>
+    </item>
+    <item>
+      <title>An Update From The Habbo Hotel: Origins Team</title>
+      <link>https://origins.habbo.com/community/article/4886/an-update-from-the-habbo-hotel-origins-team</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4886/an-update-from-the-habbo-hotel-origins-team</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>An Update From The Habbo Hotel: Origins Team</description>
+    </item>
     <item>
       <title>Deepgrove: More Beyond The Walls</title>
       <link>https://origins.habbo.com/community/article/4920/deepgrove-beyond-walls</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <description>Rare Sale: Red Marquee!</description>
-    </item>
-    <item>
-      <title>📍 This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4873/this-weeks-events-33</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4873/this-weeks-events-33</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>📍 This Week’s Events</description>
-    </item>
-    <item>
-      <title>Spider’s 100th Ec Event - The Lost Relic</title>
-      <link>https://origins.habbo.com/community/article/4856/spiders-100th-ec-event-the-lost-relic</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4856/spiders-100th-ec-event-the-lost-relic</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Spider’s 100th Ec Event - The Lost Relic</description>
     </item>
   </channel>
 </rss>
