@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: A Duck From Deepgrove!</title>
+      <link>https://origins.habbo.com/community/article/4928/funky-friday-a-duck-from-deepgrove</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4928/funky-friday-a-duck-from-deepgrove</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: A Duck From Deepgrove!</description>
+    </item>
     <item>
       <title>Glukko Has Been Asking About Deepgrove</title>
       <link>https://origins.habbo.com/community/article/4900/glukko-has-been-asking-about-deepgrove</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4880/spiders-100th-ec-event-the-lost-relic-winners</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <description>Spider’s 100th Ec Event - The Lost Relic Winners</description>
-    </item>
-    <item>
-      <title>Rare Sale: Red Marquee!</title>
-      <link>https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4877/rare-sale-red-marquee</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Red Marquee!</description>
     </item>
   </channel>
 </rss>
