@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Back In Sight Of The Hotel</title>
+      <link>https://origins.habbo.com/community/article/4944/back-in-sight-of-the-hotel</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4944/back-in-sight-of-the-hotel</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Back In Sight Of The Hotel</description>
+    </item>
     <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/4937/this-weeks-events-35</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4898/deepgrove-ruins-beyond-the-hotel</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <description>Deepgrove: Ruins Beyond The Hotel</description>
-    </item>
-    <item>
-      <title>Noco's Trading Trial: Have Your Say</title>
-      <link>https://origins.habbo.com/community/article/4896/4896</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4896/4896</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Noco's Trading Trial: Have Your Say</description>
     </item>
   </channel>
 </rss>
