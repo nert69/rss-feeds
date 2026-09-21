@@ -6,7 +6,28 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Titles On Trial</title>
+      <link>https://origins.habbo.com/community/article/4959/titles-on-trial</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4959/titles-on-trial</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Titles On Trial</description>
+    </item>
+    <item>
+      <title>The Mystery Of Deepgrove</title>
+      <link>https://origins.habbo.com/community/article/4961/the-mystery-of-deepgrove</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4961/the-mystery-of-deepgrove</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The Mystery Of Deepgrove</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/4957/this-weeks-events-36</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/4957/this-weeks-events-36</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Noco's Trading Trial: The Results Are In</title>
       <link>https://origins.habbo.com/community/article/4952/nocos-trading-trial-the-results-are-in</link>
@@ -55,27 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4886/an-update-from-the-habbo-hotel-origins-team</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <description>An Update From The Habbo Hotel: Origins Team</description>
-    </item>
-    <item>
-      <title>Deepgrove: More Beyond The Walls</title>
-      <link>https://origins.habbo.com/community/article/4920/deepgrove-beyond-walls</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4920/deepgrove-beyond-walls</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Deepgrove: More Beyond The Walls</description>
-    </item>
-    <item>
-      <title>Noco's Trading Trial: The Poll Is Open!</title>
-      <link>https://origins.habbo.com/community/article/4916/nocos-trading-trial-poll-open</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4916/nocos-trading-trial-poll-open</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Noco's Trading Trial: The Poll Is Open!</description>
-    </item>
-    <item>
-      <title>Rare Sale: Glukko Tablet!</title>
-      <link>https://origins.habbo.com/community/article/4909/rare-sale-glukko-tablet</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4909/rare-sale-glukko-tablet</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Rare Sale: Glukko Tablet!</description>
     </item>
   </channel>
 </rss>
