@@ -9,6 +9,7 @@ the feeds every hour, validates the XML, and commits only genuine changes.
 | --- | --- |
 | [Habbo Hotel: Origins community news](https://origins.habbo.com/community/category/all/1) | [habbo-origins-community.rss](https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss) |
 | [Macklebee on X (@SulakeDominic)](https://x.com/SulakeDominic) | [sulake-dominic.rss](https://raw.githubusercontent.com/nert69/rss-feeds/main/sulake-dominic.rss) |
+| [Adobe Photoshop desktop release notes](https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html) | [photoshop-release-notes.rss](https://raw.githubusercontent.com/nert69/rss-feeds/main/photoshop-release-notes.rss) |
 
 The feed stays at its original URL so existing RSS reader subscriptions keep
 working.

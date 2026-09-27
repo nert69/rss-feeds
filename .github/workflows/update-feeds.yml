@@ -43,7 +43,7 @@ jobs:
       - name: Publish changes
         shell: bash
         run: |
-          git add -- habbo-origins-community.rss sulake-dominic.rss
+          git add -- habbo-origins-community.rss sulake-dominic.rss photoshop-release-notes.rss
           if git diff --cached --quiet; then
             echo "Feed is already current."
             exit 0

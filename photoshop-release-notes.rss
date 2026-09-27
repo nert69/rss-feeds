@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe Photoshop desktop release notes</title>
+    <link>https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html</link>
+    <description>Official Photoshop desktop version updates and fixes from Adobe.</description>
+    <language>en</language>
+    <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/photoshop-release-notes.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photoshop desktop: August 2026 (version 27.10)</title>
+      <link>https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html</link>
+      <guid isPermaLink="false">adobe-photoshop-desktop-27.10</guid>
+      <description>Official release notes for Photoshop desktop version 27.10.</description>
+    </item>
+    <item>
+      <title>Photoshop desktop: July 2026 (version 27.9.1)</title>
+      <link>https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html</link>
+      <guid isPermaLink="false">adobe-photoshop-desktop-27.9.1</guid>
+      <description>Official release notes for Photoshop desktop version 27.9.1.</description>
+    </item>
+  </channel>
+</rss>

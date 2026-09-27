@@ -9,3 +9,8 @@ feeds:
     script: sulake_dominic.py
     output: sulake-dominic.rss
     site_url: https://x.com/SulakeDominic
+  photoshop_release_notes:
+    enabled: true
+    script: photoshop_release_notes.py
+    output: photoshop-release-notes.rss
+    site_url: https://helpx.adobe.com/photoshop/desktop/whats-new/photoshop-on-desktop-release-notes.html
