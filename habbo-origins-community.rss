@@ -6,7 +6,28 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Mystery Of Deepgrove - Winners</title>
+      <link>https://origins.habbo.com/community/article/5042/the-mystery-of-deepgrove-winners</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5042/the-mystery-of-deepgrove-winners</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The Mystery Of Deepgrove - Winners</description>
+    </item>
+    <item>
+      <title>Titles On Trial: Have Your Say</title>
+      <link>https://origins.habbo.com/community/article/5036/titles-trial-say</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5036/titles-trial-say</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Titles On Trial: Have Your Say</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5034/this-weeks-events-37</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5034/this-weeks-events-37</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Funky Friday: Mushroom Ducks From Deepgrove!</title>
       <link>https://origins.habbo.com/community/article/5031/funky-friday-mushroom-ducks-deepgrove</link>
@@ -55,27 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4952/nocos-trading-trial-the-results-are-in</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>Noco's Trading Trial: The Results Are In</description>
-    </item>
-    <item>
-      <title>Back In Sight Of The Hotel</title>
-      <link>https://origins.habbo.com/community/article/4944/back-in-sight-of-the-hotel</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4944/back-in-sight-of-the-hotel</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Back In Sight Of The Hotel</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4937/this-weeks-events-35</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4937/this-weeks-events-35</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>A Market Beneath Deepgrove</title>
-      <link>https://origins.habbo.com/community/article/4935/a-market-beneath-deepgrove</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4935/a-market-beneath-deepgrove</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>A Market Beneath Deepgrove</description>
     </item>
   </channel>
 </rss>
