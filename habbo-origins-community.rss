@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Deepgrove Dragons Have Woken Up</title>
+      <link>https://origins.habbo.com/community/article/5049/deepgrove-dragons-woken</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5049/deepgrove-dragons-woken</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The Deepgrove Dragons Have Woken Up</description>
+    </item>
     <item>
       <title>The Mystery Of Deepgrove - Winners</title>
       <link>https://origins.habbo.com/community/article/5042/the-mystery-of-deepgrove-winners</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4957/this-weeks-events-36</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Noco's Trading Trial: The Results Are In</title>
-      <link>https://origins.habbo.com/community/article/4952/nocos-trading-trial-the-results-are-in</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4952/nocos-trading-trial-the-results-are-in</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Noco's Trading Trial: The Results Are In</description>
     </item>
   </channel>
 </rss>
