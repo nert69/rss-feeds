@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bobec’s Fishing Derby Palooza Ii</title>
+      <link>https://origins.habbo.com/community/article/5053/bobecs-fishing-derby-palooza-ii</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5053/bobecs-fishing-derby-palooza-ii</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Bobec’s Fishing Derby Palooza Ii</description>
+    </item>
     <item>
       <title>The Deepgrove Dragons Have Woken Up</title>
       <link>https://origins.habbo.com/community/article/5049/deepgrove-dragons-woken</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/4961/the-mystery-of-deepgrove</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <description>The Mystery Of Deepgrove</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/4957/this-weeks-events-36</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4957/this-weeks-events-36</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
