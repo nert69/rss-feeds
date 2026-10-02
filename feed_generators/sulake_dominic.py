@@ -3,24 +3,19 @@
 from __future__ import annotations
 
 import argparse
-import json
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
-from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urljoin
-from urllib.request import Request, urlopen
+import re
 from xml.etree import ElementTree
 from xml.etree.ElementTree import Element, SubElement, indent
+
+from playwright.sync_api import Page, sync_playwright
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 SCREEN_NAME = "SulakeDominic"
 PROFILE_URL = f"https://x.com/{SCREEN_NAME}"
-SOURCE_URL = (
-    "https://syndication.twitter.com/srv/timeline-profile/"
-    f"screen-name/{SCREEN_NAME}"
-)
 FEED_URL = (
     "https://raw.githubusercontent.com/nert69/rss-feeds/"
     "main/sulake-dominic.rss"
@@ -38,59 +33,6 @@ class Post:
     description: str
 
 
-class NextDataParser(HTMLParser):
-    """Extract the JSON payload from X's server-rendered syndication page."""
-
-    def __init__(self) -> None:
-        super().__init__()
-        self.in_next_data = False
-        self.parts: list[str] = []
-
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        attributes = dict(attrs)
-        if tag == "script" and attributes.get("id") == "__NEXT_DATA__":
-            self.in_next_data = True
-
-    def handle_endtag(self, tag: str) -> None:
-        if tag == "script" and self.in_next_data:
-            self.in_next_data = False
-
-    def handle_data(self, data: str) -> None:
-        if self.in_next_data:
-            self.parts.append(data)
-
-    @property
-    def json_text(self) -> str:
-        return "".join(self.parts)
-
-
-def fetch_timeline_data() -> dict[str, object]:
-    request = Request(
-        SOURCE_URL,
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (compatible; nert69-rss-feeds/1.0; "
-                "+https://github.com/nert69/rss-feeds)"
-            )
-        },
-    )
-    with urlopen(request, timeout=30) as response:
-        html = response.read().decode("utf-8")
-
-    parser = NextDataParser()
-    parser.feed(html)
-    if not parser.json_text:
-        raise RuntimeError("X syndication page did not contain its timeline data.")
-    data = json.loads(parser.json_text)
-    if not isinstance(data, dict):
-        raise RuntimeError("X syndication timeline data had an unexpected format.")
-    return data
-
-
-def parse_x_date(value: str) -> datetime:
-    return datetime.strptime(value, "%a %b %d %H:%M:%S %z %Y").astimezone(UTC)
-
-
 def make_title(text: str) -> str:
     title = " ".join(text.split())
     if not title:
@@ -100,52 +42,91 @@ def make_title(text: str) -> str:
     return title[:117].rstrip() + "..."
 
 
-def parse_posts(data: dict[str, object]) -> list[Post]:
-    try:
-        entries = data["props"]["pageProps"]["timeline"]["entries"]  # type: ignore[index]
-    except (KeyError, TypeError) as error:
-        raise RuntimeError("X syndication response did not include timeline entries.") from error
-    if not isinstance(entries, list):
-        raise RuntimeError("X syndication timeline entries had an unexpected format.")
+def extract_visible_posts(page: Page) -> list[Post]:
+    """Extract @SulakeDominic's own posts from X's rendered profile."""
+    posts: dict[str, Post] = {}
+    status_pattern = re.compile(rf"^/{re.escape(SCREEN_NAME)}/status/(\d+)$", re.IGNORECASE)
 
-    posts: list[Post] = []
-    seen: set[str] = set()
-    for entry in entries:
-        if not isinstance(entry, dict) or entry.get("type") != "tweet":
-            continue
-        content = entry.get("content", {})
-        if not isinstance(content, dict):
-            continue
-        tweet = content.get("tweet", {})
-        if not isinstance(tweet, dict):
-            continue
-        user = tweet.get("user", {})
-        if not isinstance(user, dict) or str(user.get("screen_name", "")).casefold() != SCREEN_NAME.casefold():
+    for article in page.locator('article[data-testid="tweet"]').all():
+        links = article.locator(f'a[href^="/{SCREEN_NAME}/status/"]')
+        permalink = ""
+        published_text = ""
+        for index in range(links.count()):
+            link = links.nth(index)
+            href = link.get_attribute("href") or ""
+            if status_pattern.match(href) and link.locator("time").count():
+                permalink = href
+                published_text = link.locator("time").first.get_attribute("datetime") or ""
+                break
+
+        text_locator = article.locator('[data-testid="tweetText"]').first
+        if not permalink or not published_text or not text_locator.count():
             continue
 
-        tweet_id = str(tweet.get("id_str", "")).strip()
-        text = str(tweet.get("full_text") or tweet.get("text") or "").strip()
+        show_more = article.get_by_role("button", name="Show more").first
+        if show_more.count():
+            try:
+                show_more.click(timeout=2_000)
+            except Exception:
+                # The visible text is still usable if X removes the button mid-render.
+                pass
+
+        text = text_locator.inner_text().strip()
         text = "\n".join(line.rstrip() for line in text.splitlines())
-        permalink = str(tweet.get("permalink", "")).strip()
-        created_at = str(tweet.get("created_at", "")).strip()
-        if not tweet_id or not text or not permalink or not created_at or tweet_id in seen:
+        if not text:
             continue
 
-        link = urljoin("https://x.com", permalink)
-        posts.append(
-            Post(
-                guid=link,
-                title=make_title(text),
-                link=link,
-                published=parse_x_date(created_at),
-                description=text,
-            )
+        link = f"https://x.com{permalink}"
+        posts[link] = Post(
+            guid=link,
+            title=make_title(text),
+            link=link,
+            published=datetime.fromisoformat(published_text.replace("Z", "+00:00")).astimezone(UTC),
+            description=text,
         )
-        seen.add(tweet_id)
 
-    if not posts:
-        raise RuntimeError("No public @SulakeDominic posts were found; refusing to replace the feed.")
-    return posts
+    return list(posts.values())
+
+
+def fetch_posts() -> list[Post]:
+    """Render the public X profile and collect several screens of posts."""
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
+        context = browser.new_context(
+            viewport={"width": 1280, "height": 1600},
+            locale="en-GB",
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/153.0.0.0 Safari/537.36"
+            ),
+        )
+        page = context.new_page()
+        page.goto(PROFILE_URL, wait_until="domcontentloaded", timeout=60_000)
+        page.locator('article[data-testid="tweet"]').first.wait_for(timeout=45_000)
+
+        collected: dict[str, Post] = {}
+        unchanged_rounds = 0
+        for _ in range(8):
+            before = len(collected)
+            collected.update({post.guid: post for post in extract_visible_posts(page)})
+            if len(collected) == before:
+                unchanged_rounds += 1
+            else:
+                unchanged_rounds = 0
+            if unchanged_rounds >= 2 or len(collected) >= 40:
+                break
+            page.mouse.wheel(0, 1400)
+            page.wait_for_timeout(1_500)
+
+        browser.close()
+
+    if not collected:
+        raise RuntimeError("No public @SulakeDominic posts were found on the rendered profile.")
+    return list(collected.values())
 
 
 def load_existing_posts(path: Path) -> list[Post]:
@@ -235,7 +216,7 @@ def main() -> None:
     args = parser.parse_args()
 
     try:
-        current = parse_posts(fetch_timeline_data())
+        current = fetch_posts()
     except (OSError, RuntimeError, ValueError) as error:
         existing = load_existing_posts(args.output)
         if not existing:
