@@ -8,6 +8,7 @@ from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 import re
+import sys
 from xml.etree import ElementTree
 from xml.etree.ElementTree import Element, SubElement, indent
 
@@ -47,23 +48,29 @@ def extract_visible_posts(page: Page) -> list[Post]:
     posts: dict[str, Post] = {}
     status_pattern = re.compile(rf"^/{re.escape(SCREEN_NAME)}/status/(\d+)$", re.IGNORECASE)
 
-    for article in page.locator('article[data-testid="tweet"]').all():
+    for article in page.locator("article").all():
         links = article.locator(f'a[href^="/{SCREEN_NAME}/status/"]')
         permalink = ""
-        published_text = ""
+        tweet_id = ""
+        date_link = None
         for index in range(links.count()):
             link = links.nth(index)
             href = link.get_attribute("href") or ""
-            if status_pattern.match(href) and link.locator("time").count():
+            match = status_pattern.match(href)
+            if match:
                 permalink = href
-                published_text = link.locator("time").first.get_attribute("datetime") or ""
+                tweet_id = match.group(1)
+                date_link = link
                 break
 
-        text_locator = article.locator('[data-testid="tweetText"]').first
-        if not permalink or not published_text or not text_locator.count():
+        if not permalink or not tweet_id or date_link is None:
             continue
 
-        show_more = article.get_by_role("button", name="Show more").first
+        text_container = date_link.locator("xpath=../../../..").locator(":scope > div").nth(1)
+        if not text_container.count():
+            continue
+
+        show_more = text_container.get_by_role("button", name="Show more").first
         if show_more.count():
             try:
                 show_more.click(timeout=2_000)
@@ -71,17 +78,18 @@ def extract_visible_posts(page: Page) -> list[Post]:
                 # The visible text is still usable if X removes the button mid-render.
                 pass
 
-        text = text_locator.inner_text().strip()
+        text = text_container.inner_text().removesuffix(" Show more").strip()
         text = "\n".join(line.rstrip() for line in text.splitlines())
         if not text:
             continue
 
         link = f"https://x.com{permalink}"
+        published_ms = (int(tweet_id) >> 22) + 1_288_834_974_657
         posts[link] = Post(
             guid=link,
             title=make_title(text),
             link=link,
-            published=datetime.fromisoformat(published_text.replace("Z", "+00:00")).astimezone(UTC),
+            published=datetime.fromtimestamp(published_ms / 1000, tz=UTC),
             description=text,
         )
 
@@ -91,9 +99,18 @@ def extract_visible_posts(page: Page) -> list[Post]:
 def fetch_posts() -> list[Post]:
     """Render the public X profile and collect several screens of posts."""
     with sync_playwright() as playwright:
+        installed_chrome = Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
+        launch_options: dict[str, object] = {
+            "headless": sys.platform != "win32",
+            "args": [
+                "--disable-blink-features=AutomationControlled",
+                "--window-position=-32000,-32000",
+            ],
+        }
+        if installed_chrome.exists():
+            launch_options["executable_path"] = str(installed_chrome)
         browser = playwright.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled"],
+            **launch_options,
         )
         context = browser.new_context(
             viewport={"width": 1280, "height": 1600},
@@ -106,7 +123,7 @@ def fetch_posts() -> list[Post]:
         )
         page = context.new_page()
         page.goto(PROFILE_URL, wait_until="domcontentloaded", timeout=60_000)
-        page.locator('article[data-testid="tweet"]').first.wait_for(timeout=45_000)
+        page.locator(f'a[href^="/{SCREEN_NAME}/status/"]').first.wait_for(timeout=45_000)
 
         collected: dict[str, Post] = {}
         unchanged_rounds = 0
@@ -214,6 +231,16 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     args = parser.parse_args()
+
+    if sys.platform != "win32":
+        existing = load_existing_posts(args.output)
+        if not existing:
+            raise RuntimeError("The SulakeDominic feed requires the Windows local updater.")
+        print(
+            f"{args.output}: kept existing feed ({len(existing)} posts); "
+            "the Windows local updater owns this feed"
+        )
+        return
 
     try:
         current = fetch_posts()
