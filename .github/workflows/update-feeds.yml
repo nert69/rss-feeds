@@ -1,6 +1,13 @@
 name: Update RSS feeds
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-feeds.yml"
+      - "feed_generators/**"
+      - "feeds.yaml"
+      - "requirements.txt"
   schedule:
     - cron: "7 * * * *"
   workflow_dispatch:
