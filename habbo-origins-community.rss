@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Habboween Furni Design Competition!</title>
+      <link>https://origins.habbo.com/community/article/5066/habboween-furni-design-competition</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5066/habboween-furni-design-competition</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Habboween Furni Design Competition!</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5064/this-weeks-events-38</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5064/this-weeks-events-38</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Glukko Corp Expands Its Empire</title>
       <link>https://origins.habbo.com/community/article/5056/glukko-corp-expands-its-empire</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5024/chanterelles-stall-open</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <description>Chanterelle's Stall Is Open</description>
-    </item>
-    <item>
-      <title>Kingdoms Of Sand: Room Competition - Winners</title>
-      <link>https://origins.habbo.com/community/article/4980/kingdoms-of-sand-room-competition-winners</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4980/kingdoms-of-sand-room-competition-winners</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Kingdoms Of Sand: Room Competition - Winners</description>
-    </item>
-    <item>
-      <title>Titles On Trial</title>
-      <link>https://origins.habbo.com/community/article/4959/titles-on-trial</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/4959/titles-on-trial</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Titles On Trial</description>
     </item>
   </channel>
 </rss>
