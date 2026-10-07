@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Titles On Trial: The Verdict</title>
+      <link>https://origins.habbo.com/community/article/5079/titles-trial-verdict</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5079/titles-trial-verdict</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Titles On Trial: The Verdict</description>
+    </item>
     <item>
       <title>The Everbrew Fountain Is Bubbling</title>
       <link>https://origins.habbo.com/community/article/5074/everbrew-fountain-bubbling</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5034/this-weeks-events-37</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Funky Friday: Mushroom Ducks From Deepgrove!</title>
-      <link>https://origins.habbo.com/community/article/5031/funky-friday-mushroom-ducks-deepgrove</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5031/funky-friday-mushroom-ducks-deepgrove</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Funky Friday: Mushroom Ducks From Deepgrove!</description>
     </item>
   </channel>
 </rss>
