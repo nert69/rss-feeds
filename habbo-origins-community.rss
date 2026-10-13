@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>The Harvest Grounds Are Back!</title>
+      <link>https://origins.habbo.com/community/article/5116/harvest-grounds-back</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5116/harvest-grounds-back</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The Harvest Grounds Are Back!</description>
+    </item>
+    <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/5113/this-weeks-events-39</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5113/this-weeks-events-39</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5064/this-weeks-events-38</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Glukko Corp Expands Its Empire</title>
-      <link>https://origins.habbo.com/community/article/5056/glukko-corp-expands-its-empire</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5056/glukko-corp-expands-its-empire</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Glukko Corp Expands Its Empire</description>
     </item>
   </channel>
 </rss>
