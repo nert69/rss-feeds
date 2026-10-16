@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Next Keystone Update: Smoother Play, Sound Controls And New Titles</title>
+      <link>https://origins.habbo.com/community/article/5121/next-keystone-update-smoother-play-sound-controls-new-titles</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5121/next-keystone-update-smoother-play-sound-controls-new-titles</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Next Keystone Update: Smoother Play, Sound Controls And New Titles</description>
+    </item>
     <item>
       <title>The Harvest Grounds Are Back!</title>
       <link>https://origins.habbo.com/community/article/5116/harvest-grounds-back</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5066/habboween-furni-design-competition</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>Habboween Furni Design Competition!</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/5064/this-weeks-events-38</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5064/this-weeks-events-38</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
     </item>
   </channel>
 </rss>
