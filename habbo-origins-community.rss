@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Spread Of The Virus</title>
+      <link>https://origins.habbo.com/community/article/5128/spread-of-the-virus</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5128/spread-of-the-virus</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Spread Of The Virus</description>
+    </item>
     <item>
       <title>Next Keystone Update: Smoother Play, Sound Controls And New Titles</title>
       <link>https://origins.habbo.com/community/article/5121/next-keystone-update-smoother-play-sound-controls-new-titles</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5074/everbrew-fountain-bubbling</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <description>The Everbrew Fountain Is Bubbling</description>
-    </item>
-    <item>
-      <title>Habboween Furni Design Competition!</title>
-      <link>https://origins.habbo.com/community/article/5066/habboween-furni-design-competition</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5066/habboween-furni-design-competition</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Habboween Furni Design Competition!</description>
     </item>
   </channel>
 </rss>
