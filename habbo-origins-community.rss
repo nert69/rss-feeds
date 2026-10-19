@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5134/this-weeks-events-40</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5134/this-weeks-events-40</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Spread Of The Virus</title>
       <link>https://origins.habbo.com/community/article/5128/spread-of-the-virus</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5079/titles-trial-verdict</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>Titles On Trial: The Verdict</description>
-    </item>
-    <item>
-      <title>The Everbrew Fountain Is Bubbling</title>
-      <link>https://origins.habbo.com/community/article/5074/everbrew-fountain-bubbling</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5074/everbrew-fountain-bubbling</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Everbrew Fountain Is Bubbling</description>
     </item>
   </channel>
 </rss>
