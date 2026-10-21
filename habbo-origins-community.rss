@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Glukko Pops Are Back, In Cola</title>
+      <link>https://origins.habbo.com/community/article/5140/glukko-pops-are-back-in-cola</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5140/glukko-pops-are-back-in-cola</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Glukko Pops Are Back, In Cola</description>
+    </item>
     <item>
       <title>Virus Outbreak: Last Hope</title>
       <link>https://origins.habbo.com/community/article/5136/virus-outbreak-last-hope</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5103/keystone-beta-first-round-fixes</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>Keystone Beta: The First Round Of Fixes</description>
-    </item>
-    <item>
-      <title>The Keystone Beta Is Open On Steam</title>
-      <link>https://origins.habbo.com/community/article/5087/keystone-beta-open-steam</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5087/keystone-beta-open-steam</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Keystone Beta Is Open On Steam</description>
     </item>
   </channel>
 </rss>
