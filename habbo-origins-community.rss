@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Quackface: Escape The Mask Winners</title>
+      <link>https://origins.habbo.com/community/article/5208/quackface-escape-the-mask-winners</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5208/quackface-escape-the-mask-winners</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Quackface: Escape The Mask Winners</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5204/this-weeks-events-42</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5204/this-weeks-events-42</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>The Dead Dance Party</title>
       <link>https://origins.habbo.com/community/article/5199/the-dead-dance-party</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5136/virus-outbreak-last-hope</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Virus Outbreak: Last Hope</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/5134/this-weeks-events-40</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5134/this-weeks-events-40</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Spread Of The Virus</title>
-      <link>https://origins.habbo.com/community/article/5128/spread-of-the-virus</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5128/spread-of-the-virus</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Spread Of The Virus</description>
     </item>
   </channel>
 </rss>
