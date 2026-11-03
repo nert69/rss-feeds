@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Olympus Awakens</title>
+      <link>https://origins.habbo.com/community/article/5219/olympus-awakens</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5219/olympus-awakens</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Olympus Awakens</description>
+    </item>
     <item>
       <title>Quackface: Escape The Mask Winners</title>
       <link>https://origins.habbo.com/community/article/5208/quackface-escape-the-mask-winners</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5140/glukko-pops-are-back-in-cola</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Glukko Pops Are Back, In Cola</description>
-    </item>
-    <item>
-      <title>Virus Outbreak: Last Hope</title>
-      <link>https://origins.habbo.com/community/article/5136/virus-outbreak-last-hope</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5136/virus-outbreak-last-hope</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Virus Outbreak: Last Hope</description>
     </item>
   </channel>
 </rss>
