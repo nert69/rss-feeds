@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Rare: The Dark Ages Pillar</title>
+      <link>https://origins.habbo.com/community/article/5229/rare-the-dark-ages-pillar</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5229/rare-the-dark-ages-pillar</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Rare: The Dark Ages Pillar</description>
+    </item>
+    <item>
       <title>Olympus Awakens</title>
       <link>https://origins.habbo.com/community/article/5219/olympus-awakens</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5219/olympus-awakens</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5151/this-weeks-events-41</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Glukko Pops Are Back, In Cola</title>
-      <link>https://origins.habbo.com/community/article/5140/glukko-pops-are-back-in-cola</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5140/glukko-pops-are-back-in-cola</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Glukko Pops Are Back, In Cola</description>
     </item>
   </channel>
 </rss>
