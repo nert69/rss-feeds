@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Let The Trials Begin! ⚡</title>
+      <link>https://origins.habbo.com/community/article/5250/let-the-trials-begin</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5250/let-the-trials-begin</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Let The Trials Begin! ⚡</description>
+    </item>
+    <item>
+      <title>Funky Friday: Heroes, Or Possibly Ducks</title>
+      <link>https://origins.habbo.com/community/article/5244/funky-friday-heroes-or-possibly-ducks</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5244/funky-friday-heroes-or-possibly-ducks</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: Heroes, Or Possibly Ducks</description>
+    </item>
     <item>
       <title>Skill Over Luck</title>
       <link>https://origins.habbo.com/community/article/5236/skill-over-luck</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5189/habboween-community-day-save-the-date</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <description>Habboween Community Day: Save The Date</description>
-    </item>
-    <item>
-      <title>The Secrets Of Glukko</title>
-      <link>https://origins.habbo.com/community/article/5159/the-secrets-of-glukko</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5159/the-secrets-of-glukko</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Secrets Of Glukko</description>
-    </item>
-    <item>
-      <title>Habboween Furni Design Competition — Winners!</title>
-      <link>https://origins.habbo.com/community/article/5163/habboween-furni-design-competition-winners</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5163/habboween-furni-design-competition-winners</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Habboween Furni Design Competition — Winners!</description>
     </item>
   </channel>
 </rss>
