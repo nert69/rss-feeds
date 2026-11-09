@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5252/this-weeks-events-43</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5252/this-weeks-events-43</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Let The Trials Begin! ⚡</title>
       <link>https://origins.habbo.com/community/article/5250/let-the-trials-begin</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5193/quackface-escape-the-mask</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>Quackface: Escape The Mask</description>
-    </item>
-    <item>
-      <title>Habboween Community Day: Save The Date</title>
-      <link>https://origins.habbo.com/community/article/5189/habboween-community-day-save-the-date</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5189/habboween-community-day-save-the-date</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Habboween Community Day: Save The Date</description>
     </item>
   </channel>
 </rss>
