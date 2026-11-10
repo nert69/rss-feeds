@@ -6,7 +6,28 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hangouts On Trial: Talk To Your Group From Any Room 💬</title>
+      <link>https://origins.habbo.com/community/article/5309/hangouts-on-trial-talk-to-your-group-from-any-room-%f0%9f%92%ac</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5309/hangouts-on-trial-talk-to-your-group-from-any-room-%f0%9f%92%ac</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Hangouts On Trial: Talk To Your Group From Any Room 💬</description>
+    </item>
+    <item>
+      <title>The Labours Of Olympus Begin 📜</title>
+      <link>https://origins.habbo.com/community/article/5269/the-labours-of-olympus-begin-%f0%9f%93%9c</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5269/the-labours-of-olympus-begin-%f0%9f%93%9c</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The Labours Of Olympus Begin 📜</description>
+    </item>
+    <item>
+      <title>Rare: The Dragon Of Zeus ⚡</title>
+      <link>https://origins.habbo.com/community/article/5258/rare-the-dragon-of-zeus-%e2%9a%a1</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5258/rare-the-dragon-of-zeus-%e2%9a%a1</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Rare: The Dragon Of Zeus ⚡</description>
+    </item>
     <item>
       <title>This Week’s Events</title>
       <link>https://origins.habbo.com/community/article/5252/this-weeks-events-43</link>
@@ -55,27 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5208/quackface-escape-the-mask-winners</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <description>Quackface: Escape The Mask Winners</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/5204/this-weeks-events-42</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5204/this-weeks-events-42</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>The Dead Dance Party</title>
-      <link>https://origins.habbo.com/community/article/5199/the-dead-dance-party</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5199/the-dead-dance-party</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The Dead Dance Party</description>
-    </item>
-    <item>
-      <title>Quackface: Escape The Mask</title>
-      <link>https://origins.habbo.com/community/article/5193/quackface-escape-the-mask</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5193/quackface-escape-the-mask</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Quackface: Escape The Mask</description>
     </item>
   </channel>
 </rss>
