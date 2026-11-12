@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>New Present Controls Incoming!</title>
+      <link>https://origins.habbo.com/community/article/5313/new-present-controls-incoming</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5313/new-present-controls-incoming</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New Present Controls Incoming!</description>
+    </item>
     <item>
       <title>Relics Of The Gods: Design The Hero Of Olympus Badge 🎨</title>
       <link>https://origins.habbo.com/community/article/5300/relics-of-the-gods-design-the-hero-of-olympus-badge</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5236/skill-over-luck</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>Skill Over Luck</description>
-    </item>
-    <item>
-      <title>Rare: The Dark Ages Pillar</title>
-      <link>https://origins.habbo.com/community/article/5229/rare-the-dark-ages-pillar</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5229/rare-the-dark-ages-pillar</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Rare: The Dark Ages Pillar</description>
     </item>
   </channel>
 </rss>
