@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: Surprisingly Comfy</title>
+      <link>https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: Surprisingly Comfy</description>
+    </item>
     <item>
       <title>New Present Controls Incoming!</title>
       <link>https://origins.habbo.com/community/article/5313/new-present-controls-incoming</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5244/funky-friday-heroes-or-possibly-ducks</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>Funky Friday: Heroes, Or Possibly Ducks</description>
-    </item>
-    <item>
-      <title>Skill Over Luck</title>
-      <link>https://origins.habbo.com/community/article/5236/skill-over-luck</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5236/skill-over-luck</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Skill Over Luck</description>
     </item>
   </channel>
 </rss>
