@@ -8,6 +8,13 @@
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
     <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>Goodbye, No Category!</title>
+      <link>https://origins.habbo.com/community/article/5322/goodbye-no-category</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5322/goodbye-no-category</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Goodbye, No Category!</description>
+    </item>
+    <item>
       <title>Funky Friday: Surprisingly Comfy</title>
       <link>https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</link>
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</guid>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5250/let-the-trials-begin</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <description>Let The Trials Begin! ⚡</description>
-    </item>
-    <item>
-      <title>Funky Friday: Heroes, Or Possibly Ducks</title>
-      <link>https://origins.habbo.com/community/article/5244/funky-friday-heroes-or-possibly-ducks</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5244/funky-friday-heroes-or-possibly-ducks</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Funky Friday: Heroes, Or Possibly Ducks</description>
     </item>
   </channel>
 </rss>
