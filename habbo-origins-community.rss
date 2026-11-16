@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Keystone Is Now The Habbo Origins Client</title>
+      <link>https://origins.habbo.com/community/article/5336/keystone-is-now-the-habbo-origins-client</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5336/keystone-is-now-the-habbo-origins-client</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Keystone Is Now The Habbo Origins Client</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5331/this-weeks-events-44</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5331/this-weeks-events-44</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Goodbye, No Category!</title>
       <link>https://origins.habbo.com/community/article/5322/goodbye-no-category</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5258/rare-the-dragon-of-zeus</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Rare: The Dragon Of Zeus ⚡</description>
-    </item>
-    <item>
-      <title>This Week’s Events</title>
-      <link>https://origins.habbo.com/community/article/5252/this-weeks-events-43</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5252/this-weeks-events-43</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Let The Trials Begin! ⚡</title>
-      <link>https://origins.habbo.com/community/article/5250/let-the-trials-begin</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5250/let-the-trials-begin</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Let The Trials Begin! ⚡</description>
     </item>
   </channel>
 </rss>
