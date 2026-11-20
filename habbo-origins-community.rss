@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: The Nemean Lion Rug</title>
+      <link>https://origins.habbo.com/community/article/5348/funky-friday-the-nemean-lion-rug</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5348/funky-friday-the-nemean-lion-rug</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: The Nemean Lion Rug</description>
+    </item>
     <item>
       <title>Rare: The Delphic Codex 📖</title>
       <link>https://origins.habbo.com/community/article/5343/rare-the-delphic-codex</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5309/hangouts-on-trial-talk-to-your-group-from-any-room</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Hangouts On Trial: Talk To Your Group From Any Room</description>
-    </item>
-    <item>
-      <title>The Labours Of Olympus Begin</title>
-      <link>https://origins.habbo.com/community/article/5269/the-labours-of-olympus-begin</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5269/the-labours-of-olympus-begin</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The Labours Of Olympus Begin</description>
     </item>
   </channel>
 </rss>
