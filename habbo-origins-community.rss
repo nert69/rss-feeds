@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Virus Outbreak: Last Hope - Winners</title>
+      <link>https://origins.habbo.com/community/article/5397/virus-outbreak-last-hope-winners</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5397/virus-outbreak-last-hope-winners</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Virus Outbreak: Last Hope - Winners</description>
+    </item>
     <item>
       <title>Funky Friday: The Nemean Lion Rug</title>
       <link>https://origins.habbo.com/community/article/5348/funky-friday-the-nemean-lion-rug</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5300/relics-of-the-gods-design-the-hero-of-olympus-badge</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Relics Of The Gods: Design The Hero Of Olympus Badge 🎨</description>
-    </item>
-    <item>
-      <title>Hangouts On Trial: Talk To Your Group From Any Room</title>
-      <link>https://origins.habbo.com/community/article/5309/hangouts-on-trial-talk-to-your-group-from-any-room</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5309/hangouts-on-trial-talk-to-your-group-from-any-room</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Hangouts On Trial: Talk To Your Group From Any Room</description>
     </item>
   </channel>
 </rss>
