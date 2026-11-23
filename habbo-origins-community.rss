@@ -6,7 +6,21 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Kraken Rises At Snouthill Pier 🐙</title>
+      <link>https://origins.habbo.com/community/article/5405/the-kraken-rises-at-snouthill-pier</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5405/the-kraken-rises-at-snouthill-pier</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The Kraken Rises At Snouthill Pier 🐙</description>
+    </item>
+    <item>
+      <title>This Week’s Events</title>
+      <link>https://origins.habbo.com/community/article/5399/this-weeks-events-45</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5399/this-weeks-events-45</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This Week’s Events</description>
+    </item>
     <item>
       <title>Virus Outbreak: Last Hope - Winners</title>
       <link>https://origins.habbo.com/community/article/5397/virus-outbreak-last-hope-winners</link>
@@ -62,20 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <description>Funky Friday: Surprisingly Comfy</description>
-    </item>
-    <item>
-      <title>New Present Controls Incoming!</title>
-      <link>https://origins.habbo.com/community/article/5313/new-present-controls-incoming</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5313/new-present-controls-incoming</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New Present Controls Incoming!</description>
-    </item>
-    <item>
-      <title>Relics Of The Gods: Design The Hero Of Olympus Badge 🎨</title>
-      <link>https://origins.habbo.com/community/article/5300/relics-of-the-gods-design-the-hero-of-olympus-badge</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5300/relics-of-the-gods-design-the-hero-of-olympus-badge</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Relics Of The Gods: Design The Hero Of Olympus Badge 🎨</description>
     </item>
   </channel>
 </rss>
