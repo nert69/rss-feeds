@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Today's Rare: The Bolt Of Olympus</title>
+      <link>https://origins.habbo.com/community/article/5408/todays-rare-the-bolt-of-olympus</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5408/todays-rare-the-bolt-of-olympus</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today's Rare: The Bolt Of Olympus</description>
+    </item>
     <item>
       <title>The Kraken Rises At Snouthill Pier 🐙</title>
       <link>https://origins.habbo.com/community/article/5405/the-kraken-rises-at-snouthill-pier</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5322/goodbye-no-category</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <description>Goodbye, No Category!</description>
-    </item>
-    <item>
-      <title>Funky Friday: Surprisingly Comfy</title>
-      <link>https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5320/funky-friday-surprisingly-comfy</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Funky Friday: Surprisingly Comfy</description>
     </item>
   </channel>
 </rss>
