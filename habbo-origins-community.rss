@@ -6,7 +6,14 @@
     <description>Latest news from Habbo Hotel Origins</description>
     <language>en</language>
     <atom:link href="https://raw.githubusercontent.com/nert69/rss-feeds/main/habbo-origins-community.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Funky Friday: The Marble Divan</title>
+      <link>https://origins.habbo.com/community/article/5415/funky-friday-the-marble-divan</link>
+      <guid isPermaLink="true">https://origins.habbo.com/community/article/5415/funky-friday-the-marble-divan</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Funky Friday: The Marble Divan</description>
+    </item>
     <item>
       <title>Today's Rare: The Bolt Of Olympus</title>
       <link>https://origins.habbo.com/community/article/5408/todays-rare-the-bolt-of-olympus</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://origins.habbo.com/community/article/5331/this-weeks-events-44</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>This Week’s Events</description>
-    </item>
-    <item>
-      <title>Goodbye, No Category!</title>
-      <link>https://origins.habbo.com/community/article/5322/goodbye-no-category</link>
-      <guid isPermaLink="true">https://origins.habbo.com/community/article/5322/goodbye-no-category</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Goodbye, No Category!</description>
     </item>
   </channel>
 </rss>
